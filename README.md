@@ -7,13 +7,13 @@ It currently supports:
 
 # Features
   1. Volume Control (Pinch Gesture)
-- Raise thumb + index finger only:
-- Move the fingers closer or farther apart to increase/decrease volume
+    - Raise thumb + index finger only:
+    - Move the fingers closer or farther apart to increase/decrease volume
 
   3. Swipe Gestures for Media Control
-  - Raise index + middle fingers (peace sign):
-  - Swipe right → Next track (⌘ + →)
-  - Swipe left → Previous track (⌘ + ←)
+    - Raise index + middle fingers (peace sign):
+    - Swipe right → Next track (⌘ + →)
+    - Swipe left → Previous track (⌘ + ←)
 
 
 # Requirements
